@@ -1,1 +1,1 @@
-Coding exercise for the cloudera interns of 2024.
+Coding exercise for the 2024 cloudera interns.
